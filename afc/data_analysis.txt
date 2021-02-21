@@ -1,0 +1,43 @@
+-------------------------------------------- ACP (Analyse en composantes principales)  ------------------------------------------------
+
++ l'ACP est une méthode de la famille de l'analyse des données et plus généralement de la statistique multivariée,
+qui consiste à transformer des variables liées entre elles (dites « corrélées » en statistique)
+en nouvelles variables décorrélées les unes des autres. Ces nouvelles variables sont nommées « composantes principales »,
+ou axes principaux. Elle nous permet de réduire le nombre de variables et de rendre l'information moins redondante.
+
+L’analyse en composantes principales vise à réduire la dimensionnalité en créant des variables
+synthétiques, combinaisons linéaires des variables originelles, en nombre réduit, tout en préservant au mieux l’information.
+
+--------------------------------------------------- AFC (analyse factorielle des données)  --------------------------------------------
+
++ L'AFC	est l’étude des correspondances	entre les modalités de deux variables qualitatives.
+
++ son But est Résumer et représenter les principales liaisons pouvant exister entre les modalités de 2 variables qualitatives.
+
+[ Il s’agit d’une méthode de description statistique multidimensionelle d’un tableau de données qualitatives.
+  Comme l’ACP pour les données quantitatives, elle permet pour des données qualitatives :
+
+  — des représentations graphiques du contenu du tableau de données : représentation des
+  "similitudes" entre les individus et entre les modalités des variables qualitatives.
+
+  — un recodage en données numériques, sur lesquelles on peut ensuite appliquer d’autres
+  méthodes (par exemple des algorithmes de classification). ]
+
+
+Construction des profils lignes et colonnes.
+Notion de distance entre profils, distance à l'origine.
+Inertie. Analyse des associations lignes - colonnes.
+Test d'indépendance du khi-2 et décomposition orthogonale du khi-2.
+Indice d'attraction - répulsion.
+Pratique de l'AFC : choix du nombre de facteurs, analyse des cos2 et des contributions.
+Représentations graphiques.
+Traitement des modalités supplémentaires.
+
+
+[+] Un tableau de contingence peut s’appréhender comme un croisement entre deux variables qualitatives.
+
+------------------------------------------------- ACM (analyse des correspondances multiples)  ---------------------------------------
+
+- L'ACM (analyse des correspondances multiples est une généralisation de l’AFC à plus de deux variables qualitatives).
+
+--------------------------------------------------------------------------------------------------------------------------------------
